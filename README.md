@@ -18,7 +18,7 @@ Method 1: Clone the repository
 
 Method 2: Download and Extract the zip file
 
-https://github.com/LSDeia/birthday-manager/archive/refs/heads/main.zip
+[Download Zip](https://github.com/LSDeia/birthday-manager/archive/refs/heads/main.zip)
 
 ## To-Do
 

@@ -21,6 +21,6 @@ Method 2: Download and Extract the zip file
 [Download Zip](https://github.com/LSDeia/birthday-manager/archive/refs/heads/main.zip)
 
 ## To-Do
-
-- [ ] Function to add birtdate
+- [ ] Function to modif birthday
 - [ ] --help
+- [X] Function to add birthday
